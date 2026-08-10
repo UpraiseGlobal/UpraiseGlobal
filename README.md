@@ -5,6 +5,7 @@
 Upraise Global is a technology company delivering **innovative software solutions, digital transformation services, and strategic IT consulting** to help organizations operate smarter, innovate faster, and grow sustainably.
 
 We combine technology, engineering, design, and business expertise to transform complex challenges into practical digital solutions.
+ 
 ---
 
 ## About Upraise Global
