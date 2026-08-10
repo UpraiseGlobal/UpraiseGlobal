@@ -7,19 +7,6 @@ Upraise Global is a technology company delivering **innovative software solution
 We combine technology, engineering, design, and business expertise to transform complex challenges into practical digital solutions.
  
 ---
-
-## About Upraise Global
-
-**Upraise Global** is a technology-enabled managed services company helping organizations scale through people, technology, and operational expertise.
-
-We provide reliable, secure, and scalable services that enable organizations to improve customer experiences, strengthen technical operations, accelerate AI initiatives, build high-performing remote teams, protect their digital environments, and expand into new markets.
-
-### One Accountable Partner.
-
-Every engagement is delivered with clear operational ownership. We take responsibility for the quality, security, performance, and outcomes of the services we provide.
-
----
-
 # What We Do
 
 ## 🎧 Customer Experience
