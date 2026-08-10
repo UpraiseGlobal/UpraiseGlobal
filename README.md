@@ -1,4 +1,4 @@
-# 🏄‍♂️ Hi There welcome to UPRAISE GLOBAL 
+# 👋 Hi There welcome to UPRAISE GLOBAL
 
 ### Transforming Businesses Through Technology
 
